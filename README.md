@@ -1,2 +1,2 @@
 # contest_helper
-A simple linux command line helper for making contests
+A simple linux command line helper for participating in contests
